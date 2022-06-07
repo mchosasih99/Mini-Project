@@ -1,0 +1,13 @@
+hotel,stay_category,total_category,canceled
+City Hotel,Long,545,No
+City Hotel,Mid,11526,No
+City Hotel,Short,24650,No
+City Hotel,Long,273,Yes
+City Hotel,Mid,5984,Yes
+City Hotel,Short,9597,Yes
+Resort Hotel,Long,2655,No
+Resort Hotel,Mid,9757,No
+Resort Hotel,Short,13260,No
+Resort Hotel,Long,368,Yes
+Resort Hotel,Mid,4571,Yes
+Resort Hotel,Short,2943,Yes
