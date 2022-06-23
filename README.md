@@ -12,3 +12,7 @@ This project was conducted to determine consumer behavior in hotel reservations 
 - [Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning](https://github.com/mchosasih99/Mini-Project/blob/main/Predict%20Customer%20Personality%20to%20Boost%20Marketing%20Campaign%20by%20Using%20Machine%20Learning/Predict%20Customer%20Personality%20to%20Boost%20Marketing%20Campaign%20by%20Using%20Machine%20Learning.ipynb)
 
 In this project, customers is analyzed using historical marketing campaign data to improve performance and target consumers that are right for the company. The focus of this project is to make customer clustering and classification.
+
+- [Predict Customer Clicked Ads Classification by Using Machine Learning](https://github.com/mchosasih99/Mini-Project/blob/main/Predict%20Customer%20Clicked%20Ads%20Classification%20by%20Using%20Machine%20Learning/Predict%20Customer%20Clicked%20Ads%20Classification.ipynb)
+
+This project focuses on providing insights and consumer patterns in clicking on ads on websites through analyzing ad history data and data modeling (classification).
